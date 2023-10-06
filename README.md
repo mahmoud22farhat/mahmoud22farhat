@@ -19,7 +19,7 @@
 
 ### Connect with Me :
 
-<a href="https://linkedin.com/in/mahmoud-abdlkarem-7971b7247" target="_blank"><img src="https://img.shields.io/badge/-mahmoud%20farahat-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/mahmoud-abdlkarem-7971b7247" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20farahat-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 ![c-sharp](https://img.shields.io/badge/-c_sharp-05122A?style=flat&logo=c-sharp)&nbsp;
