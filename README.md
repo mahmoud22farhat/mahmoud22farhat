@@ -23,6 +23,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 ![c-sharp](https://img.shields.io/badge/-c_sharp-05122A?style=flat&logo=c-sharp)&nbsp;
+<img align="left" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 ![devexpress](https://img.shields.io/badge/-devexpress-05122A?style=flat&logo=devexpress&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=SQL&logoColor=1572B6)&nbsp;
